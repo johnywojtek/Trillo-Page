@@ -8,7 +8,7 @@ Project made on udemy Course
 * CSS (SASS)
 * Layout: Flexbox
 
-LIVE: https://johnywojtek.github.io/kurs-Trillo/
+LIVE: https://johnywojtek.github.io/Trillo-Page/
 
 
 
